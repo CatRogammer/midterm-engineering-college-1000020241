@@ -1,0 +1,16 @@
+.hero {
+    min-height: 50vh; /* Make hero taller for better visual impact */
+}
+
+.welcome .card {
+    background-color: transparent; /* Clean look */
+}
+
+@media (max-width: 576px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+    .hero {
+        min-height: 40vh;
+    }
+}
