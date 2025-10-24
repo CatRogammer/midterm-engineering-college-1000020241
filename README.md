@@ -41,8 +41,9 @@ Page Map:
 
 ## Live URL
 
-Deploy via GitHub Pages: [https://yourusername.github.io/midterm-engineering-college-yourID/](https://yourusername.github.io/midterm-engineering-college-yourID/)
+Deploy via GitHub Pages: [https://yourusername.github.io/midterm-engineering-college-1000020241/](https://yourusername.github.io/midterm-engineering-college-1000020241/)
 
 ## How to Navigate
 
 Use the top nav bar. On mobile, tap the toggler icon. Forms provide inline feedback.
+
